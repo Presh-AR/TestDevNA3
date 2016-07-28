@@ -10,6 +10,4 @@
     <tab>standard-report</tab>
     <tab>standard-Dashboard</tab>
     <tab>standard-Questions</tab>
-    <tab>TestObject__c</tab>
-    <tab>call__c</tab>
 </CustomApplication>

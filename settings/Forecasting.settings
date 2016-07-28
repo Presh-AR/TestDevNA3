@@ -226,39 +226,23 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2800000DEpXf</field>
-            <label>amount</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N2800000DEpYE</field>
-            <label>Contract Duration</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N2800000CAxjp</field>
+            <field>00N280000089xou</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2800000CAxjq</field>
+            <field>00N280000089xov</field>
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2800000DEpXa</field>
-            <label>ED</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N2800000CAxjr</field>
+            <field>00N280000089xow</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2800000CAxjs</field>
+            <field>00N280000089xox</field>
             <label>Order Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2800000DEpXV</field>
-            <label>SD</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N2800000CAxjt</field>
+            <field>00N280000089xoy</field>
             <label>Tracking Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
@@ -295,15 +279,11 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00N2800000DEpXf</field>
-            <field>00N2800000DEpYE</field>
-            <field>00N2800000CAxjp</field>
-            <field>00N2800000CAxjq</field>
-            <field>00N2800000DEpXa</field>
-            <field>00N2800000CAxjr</field>
-            <field>00N2800000CAxjs</field>
-            <field>00N2800000DEpXV</field>
-            <field>00N2800000CAxjt</field>
+            <field>00N280000089xou</field>
+            <field>00N280000089xov</field>
+            <field>00N280000089xow</field>
+            <field>00N280000089xox</field>
+            <field>00N280000089xoy</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>
@@ -458,39 +438,23 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2800000DEpXf</field>
-            <label>amount</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N2800000DEpYE</field>
-            <label>Contract Duration</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N2800000CAxjp</field>
+            <field>00N280000089xou</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2800000CAxjq</field>
+            <field>00N280000089xov</field>
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2800000DEpXa</field>
-            <label>ED</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N2800000CAxjr</field>
+            <field>00N280000089xow</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2800000CAxjs</field>
+            <field>00N280000089xox</field>
             <label>Order Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2800000DEpXV</field>
-            <label>SD</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N2800000CAxjt</field>
+            <field>00N280000089xoy</field>
             <label>Tracking Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
@@ -527,15 +491,11 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00N2800000DEpXf</field>
-            <field>00N2800000DEpYE</field>
-            <field>00N2800000CAxjp</field>
-            <field>00N2800000CAxjq</field>
-            <field>00N2800000DEpXa</field>
-            <field>00N2800000CAxjr</field>
-            <field>00N2800000CAxjs</field>
-            <field>00N2800000DEpXV</field>
-            <field>00N2800000CAxjt</field>
+            <field>00N280000089xou</field>
+            <field>00N280000089xov</field>
+            <field>00N280000089xow</field>
+            <field>00N280000089xox</field>
+            <field>00N280000089xoy</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>
@@ -690,39 +650,23 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2800000DEpXf</field>
-            <label>amount</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N2800000DEpYE</field>
-            <label>Contract Duration</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N2800000CAxjp</field>
+            <field>00N280000089xou</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2800000CAxjq</field>
+            <field>00N280000089xov</field>
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2800000DEpXa</field>
-            <label>ED</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N2800000CAxjr</field>
+            <field>00N280000089xow</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2800000CAxjs</field>
+            <field>00N280000089xox</field>
             <label>Order Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2800000DEpXV</field>
-            <label>SD</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N2800000CAxjt</field>
+            <field>00N280000089xoy</field>
             <label>Tracking Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
@@ -759,15 +703,11 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00N2800000DEpXf</field>
-            <field>00N2800000DEpYE</field>
-            <field>00N2800000CAxjp</field>
-            <field>00N2800000CAxjq</field>
-            <field>00N2800000DEpXa</field>
-            <field>00N2800000CAxjr</field>
-            <field>00N2800000CAxjs</field>
-            <field>00N2800000DEpXV</field>
-            <field>00N2800000CAxjt</field>
+            <field>00N280000089xou</field>
+            <field>00N280000089xov</field>
+            <field>00N280000089xow</field>
+            <field>00N280000089xox</field>
+            <field>00N280000089xoy</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>
@@ -922,39 +862,23 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2800000DEpXf</field>
-            <label>amount</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N2800000DEpYE</field>
-            <label>Contract Duration</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N2800000CAxjp</field>
+            <field>00N280000089xou</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2800000CAxjq</field>
+            <field>00N280000089xov</field>
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2800000DEpXa</field>
-            <label>ED</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N2800000CAxjr</field>
+            <field>00N280000089xow</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2800000CAxjs</field>
+            <field>00N280000089xox</field>
             <label>Order Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2800000DEpXV</field>
-            <label>SD</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N2800000CAxjt</field>
+            <field>00N280000089xoy</field>
             <label>Tracking Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
@@ -991,15 +915,11 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00N2800000DEpXf</field>
-            <field>00N2800000DEpYE</field>
-            <field>00N2800000CAxjp</field>
-            <field>00N2800000CAxjq</field>
-            <field>00N2800000DEpXa</field>
-            <field>00N2800000CAxjr</field>
-            <field>00N2800000CAxjs</field>
-            <field>00N2800000DEpXV</field>
-            <field>00N2800000CAxjt</field>
+            <field>00N280000089xou</field>
+            <field>00N280000089xov</field>
+            <field>00N280000089xow</field>
+            <field>00N280000089xox</field>
+            <field>00N280000089xoy</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>
@@ -1162,39 +1082,23 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2800000DEpXf</field>
-            <label>amount</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N2800000DEpYE</field>
-            <label>Contract Duration</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N2800000CAxjp</field>
+            <field>00N280000089xou</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2800000CAxjq</field>
+            <field>00N280000089xov</field>
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2800000DEpXa</field>
-            <label>ED</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N2800000CAxjr</field>
+            <field>00N280000089xow</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2800000CAxjs</field>
+            <field>00N280000089xox</field>
             <label>Order Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2800000DEpXV</field>
-            <label>SD</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N2800000CAxjt</field>
+            <field>00N280000089xoy</field>
             <label>Tracking Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
@@ -1233,15 +1137,11 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00N2800000DEpXf</field>
-            <field>00N2800000DEpYE</field>
-            <field>00N2800000CAxjp</field>
-            <field>00N2800000CAxjq</field>
-            <field>00N2800000DEpXa</field>
-            <field>00N2800000CAxjr</field>
-            <field>00N2800000CAxjs</field>
-            <field>00N2800000DEpXV</field>
-            <field>00N2800000CAxjt</field>
+            <field>00N280000089xou</field>
+            <field>00N280000089xov</field>
+            <field>00N280000089xow</field>
+            <field>00N280000089xox</field>
+            <field>00N280000089xoy</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>
