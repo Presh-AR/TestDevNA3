@@ -280,6 +280,9 @@
         <fields>PARTNER.ROLE</fields>
         <relatedList>RelatedPartnerList</relatedList>
     </relatedLists>
+    <relatedLists>
+        <relatedList>RelatedAccountSalesTeam</relatedList>
+    </relatedLists>
     <relatedObjects>ParentId</relatedObjects>
     <runAssignmentRulesDefault>false</runAssignmentRulesDefault>
     <showEmailCheckbox>true</showEmailCheckbox>

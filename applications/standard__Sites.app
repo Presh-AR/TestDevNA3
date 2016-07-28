@@ -3,4 +3,6 @@
     <defaultLandingTab>standard-home</defaultLandingTab>
     <tab>standard-Chatter</tab>
     <tab>standard-Sites</tab>
+    <tab>TestObject__c</tab>
+    <tab>call__c</tab>
 </CustomApplication>

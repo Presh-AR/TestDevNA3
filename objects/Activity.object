@@ -33,32 +33,6 @@
         <type>Default</type>
     </actionOverrides>
     <enableFeeds>false</enableFeeds>
-    <fields>
-        <fullName>numbertest__c</fullName>
-        <externalId>false</externalId>
-        <label>numbertest</label>
-        <precision>18</precision>
-        <required>false</required>
-        <scale>0</scale>
-        <type>Number</type>
-        <unique>false</unique>
-    </fields>
-    <fields>
-        <fullName>testchekbox__c</fullName>
-        <defaultValue>false</defaultValue>
-        <externalId>false</externalId>
-        <label>testchekbox</label>
-        <type>Checkbox</type>
-    </fields>
-    <fields>
-        <fullName>xyztest__c</fullName>
-        <externalId>false</externalId>
-        <label>xyztest</label>
-        <length>23</length>
-        <required>false</required>
-        <type>Text</type>
-        <unique>false</unique>
-    </fields>
     <listViews>
         <fullName>AllActivities</fullName>
         <filterScope>Team</filterScope>

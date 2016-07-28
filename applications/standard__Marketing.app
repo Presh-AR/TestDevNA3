@@ -8,4 +8,6 @@
     <tab>standard-Opportunity</tab>
     <tab>standard-report</tab>
     <tab>standard-Dashboard</tab>
+    <tab>TestObject__c</tab>
+    <tab>call__c</tab>
 </CustomApplication>
