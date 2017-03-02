@@ -24,7 +24,12 @@
                 <field>Test__c</field>
             </layoutItems>
         </layoutColumns>
-        <layoutColumns/>
+        <layoutColumns>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Test1__c</field>
+            </layoutItems>
+        </layoutColumns>
         <style>TwoColumnsTopToBottom</style>
     </layoutSections>
     <layoutSections>

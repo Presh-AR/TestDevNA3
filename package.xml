@@ -82,6 +82,7 @@
         <members>call__c.Verified_Customer__c</members>
         <members>customsettingtest__c.Testcustomfield__c</members>
         <members>dataloader3935__c.AccountDataload__c</members>
+        <members>dataloader3935__c.Test1__c</members>
         <members>dataloader3935__c.Test__c</members>
         <members>dataloader3935__c.X3935Contact__c</members>
         <name>CustomField</name>
